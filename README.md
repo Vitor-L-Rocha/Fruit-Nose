@@ -2,9 +2,6 @@
   🍉 Fruit Nose
 </h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/37555d18-a5b9-4b1c-b3ca-730589006181" alt="Fruit Nose Banner" width="700"/>
-</p>
 
 <p align="center">
   A real-time Fruit Ninja-inspired game controlled entirely by your nose using computer vision.
